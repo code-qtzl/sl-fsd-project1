@@ -73,28 +73,21 @@ Atomic Diner is a modern, responsive online food ordering application that allow
 
 ## 🎯 Core Features Explained
 
-### 1. Menu System
-
--   **Dynamic Loading**: Menu items are loaded from `menu.json` via AJAX
--   **Categorization**: Items organized by appetizers, main course, desserts, beverages
--   **Search Functionality**: Real-time search across item names and descriptions
--   **Filtering**: Category-based filtering with visual feedback
-
-### 2. Shopping Cart
+### 1. Shopping Cart
 
 -   **Add to Cart**: One-click adding with visual confirmation
 -   **Quantity Management**: Increment/decrement quantities inline
 -   **Persistence**: Cart contents saved in localStorage
 -   **Real-time Updates**: Live total calculation and item count
 
-### 3. User Interface
+### 2. User Interface
 
 -   **Responsive Navigation**: Collapsible mobile menu
 -   **Modal System**: Cart overlay with smooth animations
 -   **Toast Notifications**: User feedback for actions
 -   **Loading States**: Spinner during data loading
 
-### 4. Form Handling
+### 3. Form Handling
 
 -   **Contact Form**: Validation and submission handling
 -   **Error Management**: User-friendly error messages
@@ -113,14 +106,6 @@ Atomic Diner is a modern, responsive online food ordering application that allow
 
 -   **Font Awesome**: Icon library
 -   **Google Fonts**: Typography (Inter font family)
-
-### Key Responsive Features
-
--   Flexible grid layouts
--   Scalable typography
--   Touch-friendly buttons
--   Optimized images
--   Collapsible navigation
 
 ## 🙏 Acknowledgments
 
